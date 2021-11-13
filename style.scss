@@ -180,4 +180,15 @@ div.fadeIn {
   justify-content: center;
   align-items: center;
   top: 100px;
+
+  .github-link {
+    text-decoration: none;
+    color: rgba(226, 226, 226, 0.541);
+  
+   &:hover {
+      color:rgb(56, 94, 85);
+    }
+  }
 }
+
+

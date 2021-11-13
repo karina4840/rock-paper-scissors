@@ -290,4 +290,13 @@ div.fadeIn {
           align-items: center;
   top: 100px;
 }
+
+.attribution .github-link {
+  text-decoration: none;
+  color: rgba(226, 226, 226, 0.541);
+}
+
+.attribution .github-link:hover {
+  color: #385e55;
+}
 /*# sourceMappingURL=style.css.map */
